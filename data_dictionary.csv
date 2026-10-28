@@ -1,0 +1,12 @@
+Field,Type,Definition
+Country,Text,Country name used for demonstration; 20 illustrative countries.
+Region,Text,Broad geographic region assigned for demonstration.
+Income_Group,Text,Illustrative income grouping; not validated against a specific year's World Bank classification.
+Year,Integer,Year from 2020 to 2026 inclusive.
+Fuel_Type,Category,"Petrol, Diesel, or LPG."
+Fuel_Price_USD_per_Litre,Decimal,Synthetic illustrative retail-price index expressed as USD/litre for dashboard practice; not real-world price data.
+Estimated_Tax_Share,Decimal,Synthetic illustrative share (0-1); not an official tax measure.
+Estimated_Subsidy_Share,Decimal,Synthetic illustrative share (0-1); not an official subsidy measure.
+Currency_Reference,Text,Local currency code for context only; prices are expressed in illustrative USD/litre units.
+Data_Status,Text,Always SYNTHETIC_DEMO; must be retained to signal non-real data.
+Source_Note,Text,Explains that the row is generated and not observed/verified.

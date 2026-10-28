@@ -1,0 +1,25 @@
+{
+  "dataset_status": "Synthetic demo data only; no real-world observations are included.",
+  "rows": 420,
+  "unique_countries": 20,
+  "years": [
+    2020,
+    2026
+  ],
+  "fuel_types": [
+    "Diesel",
+    "LPG",
+    "Petrol"
+  ],
+  "regions": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "North America",
+    "Oceania",
+    "South America"
+  ],
+  "records_per_country_year_fuel": 3,
+  "expected_rows_check": 420,
+  "verified_real_world_claims": 0
+}

@@ -1,0 +1,421 @@
+Country,Region,Income_Group,Year,Fuel_Type,Fuel_Price_USD_per_Litre,Estimated_Tax_Share,Estimated_Subsidy_Share,Currency_Reference,Data_Status,Source_Note
+India,Asia,Lower-middle income,2020,Petrol,0.857,0.156,0.069,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2020,Diesel,0.742,0.192,0.089,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2020,LPG,0.461,0.159,0.076,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2021,Petrol,0.914,0.176,0.08,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2021,Diesel,0.84,0.175,0.087,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2021,LPG,0.507,0.176,0.084,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2022,Petrol,1.297,0.175,0.095,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2022,Diesel,1.181,0.192,0.063,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2022,LPG,0.684,0.192,0.06,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2023,Petrol,1.112,0.227,0.085,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2023,Diesel,1.101,0.221,0.082,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2023,LPG,0.633,0.204,0.083,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2024,Petrol,1.18,0.226,0.098,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2024,Diesel,1.057,0.23,0.057,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2024,LPG,0.576,0.209,0.059,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2025,Petrol,1.088,0.21,0.069,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2025,Diesel,1.045,0.223,0.074,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2025,LPG,0.564,0.218,0.102,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2026,Petrol,1.148,0.245,0.064,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2026,Diesel,1.065,0.223,0.074,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+India,Asia,Lower-middle income,2026,LPG,0.618,0.247,0.083,INR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2020,Petrol,0.862,0.337,0.034,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2020,Diesel,0.743,0.297,0.011,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2020,LPG,0.422,0.306,0.042,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2021,Petrol,1.015,0.321,0.028,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2021,Diesel,0.881,0.351,0.018,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2021,LPG,0.49,0.317,0.023,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2022,Petrol,1.232,0.344,0.04,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2022,Diesel,1.148,0.326,0.045,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2022,LPG,0.656,0.32,0.0,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2023,Petrol,1.113,0.356,0.035,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2023,Diesel,1.059,0.328,0.014,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2023,LPG,0.634,0.351,0.044,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2024,Petrol,1.183,0.336,0.031,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2024,Diesel,1.069,0.362,0.008,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2024,LPG,0.602,0.341,0.017,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2025,Petrol,1.114,0.393,0.039,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2025,Diesel,1.004,0.37,0.004,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2025,LPG,0.608,0.389,0.01,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2026,Petrol,1.147,0.385,0.003,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2026,Diesel,1.069,0.382,0.034,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Japan,Asia,High income,2026,LPG,0.589,0.355,0.011,JPY,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2020,Petrol,0.704,0.141,0.169,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2020,Diesel,0.728,0.11,0.128,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2020,LPG,0.414,0.142,0.129,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2021,Petrol,0.871,0.108,0.163,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2021,Diesel,0.83,0.111,0.149,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2021,LPG,0.457,0.118,0.169,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2022,Petrol,1.126,0.126,0.152,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2022,Diesel,1.066,0.125,0.141,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2022,LPG,0.617,0.147,0.147,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2023,Petrol,1.046,0.131,0.136,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2023,Diesel,0.944,0.154,0.137,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2023,LPG,0.527,0.129,0.157,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2024,Petrol,0.997,0.18,0.168,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2024,Diesel,0.901,0.147,0.158,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2024,LPG,0.517,0.142,0.172,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2025,Petrol,1.016,0.169,0.164,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2025,Diesel,0.958,0.155,0.13,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2025,LPG,0.52,0.166,0.148,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2026,Petrol,1.042,0.189,0.174,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2026,Diesel,0.896,0.175,0.142,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Indonesia,Asia,Upper-middle income,2026,LPG,0.549,0.167,0.135,IDR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2020,Petrol,0.834,0.246,0.029,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2020,Diesel,0.745,0.271,0.037,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2020,LPG,0.459,0.253,0.018,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2021,Petrol,1.03,0.277,0.063,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2021,Diesel,0.939,0.277,0.023,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2021,LPG,0.504,0.246,0.035,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2022,Petrol,1.207,0.264,0.064,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2022,Diesel,1.133,0.284,0.038,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2022,LPG,0.65,0.293,0.065,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2023,Petrol,1.167,0.291,0.023,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2023,Diesel,1.045,0.303,0.044,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2023,LPG,0.606,0.292,0.018,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2024,Petrol,1.15,0.29,0.058,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2024,Diesel,1.011,0.313,0.019,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2024,LPG,0.573,0.295,0.049,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2025,Petrol,1.088,0.281,0.06,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2025,Diesel,1.002,0.305,0.046,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2025,LPG,0.577,0.304,0.041,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2026,Petrol,1.182,0.295,0.051,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2026,Diesel,1.011,0.305,0.049,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Thailand,Asia,Upper-middle income,2026,LPG,0.575,0.301,0.053,THB,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2020,Petrol,1.285,0.478,0.025,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2020,Diesel,1.315,0.459,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2020,LPG,0.684,0.502,0.019,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2021,Petrol,1.58,0.483,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2021,Diesel,1.447,0.5,0.006,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2021,LPG,0.83,0.498,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2022,Petrol,1.947,0.49,0.008,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2022,Diesel,1.809,0.482,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2022,LPG,0.955,0.503,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2023,Petrol,1.784,0.521,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2023,Diesel,1.646,0.498,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2023,LPG,0.952,0.527,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2024,Petrol,1.73,0.509,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2024,Diesel,1.642,0.527,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2024,LPG,0.925,0.523,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2025,Petrol,1.64,0.509,0.019,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2025,Diesel,1.637,0.532,0.017,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2025,LPG,0.899,0.512,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2026,Petrol,1.699,0.56,0.015,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2026,Diesel,1.642,0.56,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Germany,Europe,High income,2026,LPG,0.879,0.52,0.014,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2020,Petrol,1.412,0.445,0.006,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2020,Diesel,1.194,0.471,0.018,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2020,LPG,0.742,0.466,0.019,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2021,Petrol,1.447,0.472,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2021,Diesel,1.461,0.475,0.018,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2021,LPG,0.816,0.448,0.014,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2022,Petrol,1.837,0.489,0.018,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2022,Diesel,1.706,0.486,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2022,LPG,0.971,0.485,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2023,Petrol,1.694,0.465,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2023,Diesel,1.679,0.503,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2023,LPG,0.931,0.475,0.024,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2024,Petrol,1.748,0.512,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2024,Diesel,1.67,0.474,0.023,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2024,LPG,0.887,0.47,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2025,Petrol,1.752,0.491,0.005,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2025,Diesel,1.58,0.494,0.004,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2025,LPG,0.872,0.51,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2026,Petrol,1.795,0.512,0.011,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2026,Diesel,1.625,0.519,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+France,Europe,High income,2026,LPG,0.864,0.518,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2020,Petrol,1.221,0.437,0.011,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2020,Diesel,1.122,0.41,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2020,LPG,0.642,0.41,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2021,Petrol,1.393,0.452,0.009,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2021,Diesel,1.345,0.436,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2021,LPG,0.734,0.405,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2022,Petrol,1.742,0.444,0.008,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2022,Diesel,1.607,0.437,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2022,LPG,0.909,0.46,0.015,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2023,Petrol,1.584,0.429,0.001,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2023,Diesel,1.519,0.442,0.016,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2023,LPG,0.867,0.459,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2024,Petrol,1.565,0.436,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2024,Diesel,1.476,0.477,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2024,LPG,0.83,0.466,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2025,Petrol,1.612,0.47,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2025,Diesel,1.478,0.445,0.013,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2025,LPG,0.844,0.45,0.0,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2026,Petrol,1.549,0.503,0.001,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2026,Diesel,1.409,0.467,0.017,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Spain,Europe,High income,2026,LPG,0.827,0.495,0.008,EUR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2020,Petrol,1.208,0.355,0.043,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2020,Diesel,1.1,0.356,0.031,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2020,LPG,0.595,0.367,0.022,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2021,Petrol,1.339,0.372,0.019,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2021,Diesel,1.155,0.347,0.027,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2021,LPG,0.687,0.361,0.026,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2022,Petrol,1.576,0.349,0.009,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2022,Diesel,1.45,0.361,0.022,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2022,LPG,0.81,0.357,0.03,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2023,Petrol,1.523,0.358,0.015,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2023,Diesel,1.381,0.376,0.005,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2023,LPG,0.772,0.4,0.024,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2024,Petrol,1.5,0.408,0.033,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2024,Diesel,1.342,0.365,0.013,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2024,LPG,0.784,0.408,0.043,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2025,Petrol,1.441,0.412,0.022,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2025,Diesel,1.348,0.386,0.006,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2025,LPG,0.751,0.376,0.012,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2026,Petrol,1.487,0.405,0.003,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2026,Diesel,1.342,0.391,0.026,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Poland,Europe,High income,2026,LPG,0.728,0.405,0.023,PLN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2020,Petrol,0.643,0.167,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2020,Diesel,0.64,0.138,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2020,LPG,0.346,0.151,0.013,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2021,Petrol,0.815,0.183,0.017,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2021,Diesel,0.736,0.149,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2021,LPG,0.434,0.195,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2022,Petrol,1.138,0.194,0.008,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2022,Diesel,1.058,0.202,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2022,LPG,0.552,0.163,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2023,Petrol,1.04,0.193,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2023,Diesel,0.96,0.203,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2023,LPG,0.537,0.202,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2024,Petrol,1.038,0.223,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2024,Diesel,0.868,0.191,0.009,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2024,LPG,0.549,0.195,0.011,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2025,Petrol,0.929,0.22,0.006,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2025,Diesel,0.858,0.224,0.018,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2025,LPG,0.516,0.191,0.024,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2026,Petrol,1.024,0.212,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2026,Diesel,0.897,0.22,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+United States,North America,High income,2026,LPG,0.537,0.236,0.0,USD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2020,Petrol,0.831,0.227,0.016,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2020,Diesel,0.734,0.217,0.012,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2020,LPG,0.432,0.209,0.015,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2021,Petrol,0.918,0.229,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2021,Diesel,0.868,0.218,0.018,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2021,LPG,0.497,0.209,0.019,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2022,Petrol,1.198,0.238,0.006,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2022,Diesel,1.119,0.216,0.018,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2022,LPG,0.619,0.226,0.015,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2023,Petrol,1.101,0.269,0.01,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2023,Diesel,1.005,0.226,0.022,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2023,LPG,0.555,0.261,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2024,Petrol,1.134,0.27,0.007,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2024,Diesel,1.011,0.275,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2024,LPG,0.553,0.27,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2025,Petrol,1.089,0.269,0.002,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2025,Diesel,0.983,0.282,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2025,LPG,0.574,0.259,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2026,Petrol,1.039,0.265,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2026,Diesel,1.006,0.293,0.0,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Canada,North America,High income,2026,LPG,0.547,0.279,0.011,CAD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2020,Petrol,0.681,0.201,0.019,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2020,Diesel,0.54,0.185,0.016,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2020,LPG,0.31,0.176,0.032,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2021,Petrol,0.723,0.234,0.033,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2021,Diesel,0.707,0.191,0.048,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2021,LPG,0.388,0.229,0.034,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2022,Petrol,1.005,0.217,0.014,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2022,Diesel,0.883,0.242,0.029,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2022,LPG,0.542,0.215,0.009,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2023,Petrol,0.932,0.208,0.012,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2023,Diesel,0.851,0.22,0.055,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2023,LPG,0.456,0.243,0.035,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2024,Petrol,0.931,0.226,0.031,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2024,Diesel,0.823,0.237,0.048,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2024,LPG,0.496,0.23,0.036,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2025,Petrol,0.894,0.262,0.052,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2025,Diesel,0.782,0.236,0.038,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2025,LPG,0.439,0.234,0.009,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2026,Petrol,0.837,0.258,0.035,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2026,Diesel,0.799,0.247,0.04,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Mexico,North America,Upper-middle income,2026,LPG,0.475,0.258,0.039,MXN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2020,Petrol,0.911,0.294,0.046,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2020,Diesel,0.809,0.302,0.036,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2020,LPG,0.45,0.287,0.06,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2021,Petrol,1.029,0.269,0.023,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2021,Diesel,0.89,0.302,0.043,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2021,LPG,0.502,0.271,0.049,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2022,Petrol,1.304,0.322,0.04,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2022,Diesel,1.177,0.279,0.017,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2022,LPG,0.661,0.291,0.028,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2023,Petrol,1.131,0.333,0.057,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2023,Diesel,1.094,0.333,0.065,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2023,LPG,0.624,0.298,0.017,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2024,Petrol,1.191,0.319,0.048,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2024,Diesel,1.113,0.304,0.044,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2024,LPG,0.612,0.32,0.02,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2025,Petrol,1.122,0.322,0.049,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2025,Diesel,1.088,0.321,0.05,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2025,LPG,0.58,0.352,0.056,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2026,Petrol,1.156,0.338,0.031,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2026,Diesel,1.038,0.364,0.035,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Brazil,South America,Upper-middle income,2026,LPG,0.599,0.364,0.048,BRL,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2020,Petrol,0.952,0.236,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2020,Diesel,0.854,0.253,0.006,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2020,LPG,0.51,0.225,0.002,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2021,Petrol,1.145,0.247,0.01,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2021,Diesel,0.956,0.274,0.005,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2021,LPG,0.548,0.233,0.003,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2022,Petrol,1.415,0.24,0.025,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2022,Diesel,1.346,0.258,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2022,LPG,0.755,0.26,0.011,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2023,Petrol,1.299,0.259,0.017,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2023,Diesel,1.252,0.257,0.003,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2023,LPG,0.667,0.291,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2024,Petrol,1.326,0.298,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2024,Diesel,1.209,0.276,0.022,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2024,LPG,0.664,0.296,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2025,Petrol,1.227,0.294,0.025,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2025,Diesel,1.152,0.272,0.002,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2025,LPG,0.641,0.293,0.002,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2026,Petrol,1.259,0.291,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2026,Diesel,1.188,0.304,0.0,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Chile,South America,High income,2026,LPG,0.677,0.277,0.012,CLP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2020,Petrol,0.708,0.166,0.094,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2020,Diesel,0.647,0.166,0.124,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2020,LPG,0.358,0.127,0.1,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2021,Petrol,0.801,0.178,0.119,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2021,Diesel,0.723,0.161,0.098,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2021,LPG,0.423,0.155,0.108,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2022,Petrol,0.991,0.168,0.123,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2022,Diesel,0.928,0.18,0.107,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2022,LPG,0.55,0.188,0.118,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2023,Petrol,0.932,0.171,0.111,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2023,Diesel,0.891,0.199,0.077,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2023,LPG,0.469,0.187,0.121,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2024,Petrol,0.976,0.202,0.097,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2024,Diesel,0.818,0.197,0.119,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2024,LPG,0.48,0.2,0.12,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2025,Petrol,0.868,0.215,0.09,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2025,Diesel,0.828,0.182,0.102,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2025,LPG,0.478,0.215,0.083,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2026,Petrol,0.88,0.229,0.106,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2026,Diesel,0.824,0.231,0.082,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Argentina,South America,Upper-middle income,2026,LPG,0.476,0.198,0.088,ARS,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2020,Petrol,0.667,0.235,0.06,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2020,Diesel,0.68,0.203,0.037,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2020,LPG,0.366,0.224,0.047,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2021,Petrol,0.829,0.218,0.057,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2021,Diesel,0.74,0.224,0.039,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2021,LPG,0.42,0.234,0.044,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2022,Petrol,1.151,0.23,0.064,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2022,Diesel,1.026,0.229,0.043,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2022,LPG,0.581,0.252,0.017,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2023,Petrol,1.019,0.25,0.06,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2023,Diesel,0.906,0.265,0.045,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2023,LPG,0.516,0.257,0.046,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2024,Petrol,1.009,0.271,0.048,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2024,Diesel,0.944,0.266,0.06,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2024,LPG,0.523,0.25,0.037,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2025,Petrol,0.981,0.282,0.02,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2025,Diesel,0.874,0.282,0.024,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2025,LPG,0.485,0.272,0.064,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2026,Petrol,0.984,0.301,0.057,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2026,Diesel,0.878,0.296,0.039,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+South Africa,Africa,Upper-middle income,2026,LPG,0.527,0.292,0.032,ZAR,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2020,Petrol,0.678,0.223,0.042,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2020,Diesel,0.709,0.218,0.071,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2020,LPG,0.401,0.223,0.075,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2021,Petrol,0.823,0.225,0.036,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2021,Diesel,0.774,0.208,0.069,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2021,LPG,0.445,0.214,0.076,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2022,Petrol,1.146,0.2,0.047,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2022,Diesel,0.963,0.239,0.063,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2022,LPG,0.594,0.206,0.038,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2023,Petrol,1.043,0.25,0.05,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2023,Diesel,0.918,0.212,0.082,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2023,LPG,0.513,0.23,0.04,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2024,Petrol,1.032,0.222,0.058,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2024,Diesel,0.928,0.252,0.082,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2024,LPG,0.51,0.252,0.043,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2025,Petrol,0.963,0.23,0.059,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2025,Diesel,0.885,0.273,0.037,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2025,LPG,0.498,0.247,0.083,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2026,Petrol,1.019,0.24,0.069,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2026,Diesel,0.907,0.284,0.053,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Kenya,Africa,Lower-middle income,2026,LPG,0.504,0.244,0.041,KES,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2020,Petrol,0.589,0.098,0.208,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2020,Diesel,0.526,0.105,0.176,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2020,LPG,0.304,0.087,0.181,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2021,Petrol,0.656,0.088,0.213,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2021,Diesel,0.576,0.096,0.218,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2021,LPG,0.331,0.092,0.22,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2022,Petrol,0.812,0.138,0.182,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2022,Diesel,0.757,0.108,0.184,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2022,LPG,0.451,0.096,0.176,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2023,Petrol,0.808,0.117,0.191,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2023,Diesel,0.696,0.108,0.212,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2023,LPG,0.409,0.142,0.199,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2024,Petrol,0.793,0.141,0.18,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2024,Diesel,0.709,0.162,0.177,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2024,LPG,0.413,0.158,0.201,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2025,Petrol,0.752,0.173,0.178,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2025,Diesel,0.694,0.145,0.209,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2025,LPG,0.393,0.17,0.179,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2026,Petrol,0.728,0.165,0.178,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2026,Diesel,0.685,0.167,0.202,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Nigeria,Africa,Lower-middle income,2026,LPG,0.389,0.185,0.202,NGN,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2020,Petrol,0.636,0.125,0.1,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2020,Diesel,0.607,0.138,0.128,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2020,LPG,0.346,0.131,0.106,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2021,Petrol,0.739,0.116,0.112,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2021,Diesel,0.68,0.126,0.1,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2021,LPG,0.383,0.138,0.114,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2022,Petrol,0.943,0.161,0.098,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2022,Diesel,0.927,0.12,0.1,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2022,LPG,0.519,0.156,0.123,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2023,Petrol,0.904,0.153,0.111,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2023,Diesel,0.791,0.143,0.128,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2023,LPG,0.478,0.168,0.131,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2024,Petrol,0.925,0.165,0.113,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2024,Diesel,0.816,0.146,0.128,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2024,LPG,0.444,0.14,0.137,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2025,Petrol,0.851,0.183,0.124,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2025,Diesel,0.822,0.187,0.144,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2025,LPG,0.465,0.176,0.127,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2026,Petrol,0.827,0.201,0.136,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2026,Diesel,0.782,0.164,0.13,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Egypt,Africa,Lower-middle income,2026,LPG,0.444,0.172,0.095,EGP,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2020,Petrol,1.039,0.253,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2020,Diesel,0.867,0.257,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2020,LPG,0.532,0.236,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2021,Petrol,1.112,0.254,0.011,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2021,Diesel,1.076,0.263,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2021,LPG,0.558,0.243,0.006,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2022,Petrol,1.475,0.259,0.008,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2022,Diesel,1.334,0.267,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2022,LPG,0.773,0.251,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2023,Petrol,1.313,0.289,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2023,Diesel,1.255,0.257,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2023,LPG,0.705,0.255,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2024,Petrol,1.282,0.272,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2024,Diesel,1.194,0.265,0.012,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2024,LPG,0.664,0.284,0.01,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2025,Petrol,1.298,0.317,0.015,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2025,Diesel,1.142,0.318,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2025,LPG,0.642,0.321,0.018,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2026,Petrol,1.319,0.314,0.01,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2026,Diesel,1.194,0.291,0.0,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+Australia,Oceania,High income,2026,LPG,0.669,0.325,0.006,AUD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2020,Petrol,1.128,0.321,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2020,Diesel,1.039,0.287,0.004,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2020,LPG,0.563,0.295,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2021,Petrol,1.213,0.302,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2021,Diesel,1.139,0.291,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2021,LPG,0.673,0.302,0.011,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2022,Petrol,1.63,0.336,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2022,Diesel,1.41,0.305,0.005,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2022,LPG,0.843,0.328,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2023,Petrol,1.503,0.33,0.013,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2023,Diesel,1.381,0.327,0.021,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2023,LPG,0.766,0.337,0.006,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2024,Petrol,1.492,0.346,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2024,Diesel,1.268,0.337,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2024,LPG,0.732,0.318,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2025,Petrol,1.389,0.348,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2025,Diesel,1.347,0.329,0.018,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2025,LPG,0.763,0.356,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2026,Petrol,1.423,0.363,0.015,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2026,Diesel,1.366,0.357,0.015,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
+New Zealand,Oceania,High income,2026,LPG,0.754,0.351,0.0,NZD,SYNTHETIC_DEMO,Illustrative generated value; not observed or verified country data
